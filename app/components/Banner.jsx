@@ -13,7 +13,7 @@ function Banner() {
           Front-End Developer
         </h1>
         <Link href="/contact">
-          <button className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 mt-15 overflow-hidden text-md font-inter-tight text-gray-900 rounded-lg group bg-gradient-to-br from-deepNavy to-royalPurple group-hover:from-royalPurple group-hover:to-lightGray hover:text-lightGray dark:text-lightGray">
+          <button className="relative inline-flex items-center justify-center p-0.5 mb-2 me-2 mt-15 cursor-pointer overflow-hidden text-md font-inter-tight text-gray-900 rounded-lg group bg-gradient-to-br from-deepNavy to-royalPurple group-hover:from-royalPurple group-hover:to-lightGray hover:text-lightGray dark:text-lightGray">
             <span className="relative flex justify-center items-center px-5 py-2.5 transition-all ease-in duration-150 bg-lightGray dark:bg-gray-900 rounded-md group-hover:bg-transparent group-hover:dark:bg-transparent">
               Contact Me{" "}
               <span className="ml-1 text-2xl transition-all duration-200 group-hover:translate-x-2">
