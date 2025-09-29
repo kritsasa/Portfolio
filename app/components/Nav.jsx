@@ -24,7 +24,7 @@ const Nav = () => {
   };
 
   return (
-    <nav className="fixed top-2 w-full justify-between px-6 py-3  bg-white/10 backdrop-blur-3xl border border-white/20 rounded-4xl">
+    <nav className="fixed top-2 w-full justify-between px-6 py-3 z-999 bg-white/10 backdrop-blur-3xl border border-white/20 rounded-4xl">
       <div className="flex justify-between items-center px-8 md:px-10 lg:px-20">
         <div className="text-lightGray text-2xl md:text-3xl font-inter-tight">
           Kritsada
